@@ -8,7 +8,9 @@ O objetivo é fornecer uma ferramenta acessível para proprietários e locatári
 
 A aplicação foi disponibilizada através do Streamlit, permitindo que qualquer usuário informe as características de um imóvel e obtenha uma previsão de preço em tempo real.
 
-🔗 Para acessar a aplicação através do Streamlit, basta executar o código de deploy
+🔗 Para acessar a aplicação através do Streamlit:
+pip install -r requirements.txt
+execute: streamlit run c:\caminho\Deploy_projeto_airbnb.py.
 
 
 # 📌 Problema de Negócio
